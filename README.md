@@ -1,5 +1,6 @@
 # my-recipie
 html-task2
-https://github.com/arifa-chouhdry/my-recipie/
+
+ https://arifa-chouhdry.github.io/my-recipie/
 
 mockup:https://www.khanapakana.com/
